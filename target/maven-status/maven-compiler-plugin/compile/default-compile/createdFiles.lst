@@ -1,0 +1,6 @@
+com/example/migratespring/StudentRepository.class
+com/example/migratespring/StudentNotFoundException.class
+com/example/migratespring/Student.class
+com/example/migratespring/SecurityConfig.class
+com/example/migratespring/MigrateSpringApplication.class
+com/example/migratespring/StudentController.class
